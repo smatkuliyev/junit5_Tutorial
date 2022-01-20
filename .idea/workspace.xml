@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8f8c0a0-52e8-4bad-8586-77a617886ab2" name="Default Changelist" comment="" />
+    <list default="true" id="f8f8c0a0-52e8-4bad-8586-77a617886ab2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/junit/J01_Assertions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/junit/J01_Assertions.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,17 +34,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="23vd4vnGHtz1rXfN411nYYFn17X" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java2021FallTr" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -50,8 +70,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.J01_Assertions.testArray">
-    <configuration name="HesapMakinesiTest.carp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.J04_TestingParameterized.testBykHrfCvr">
+    <configuration name="J03_TestingExceptions.testException03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit5_Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -60,14 +80,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.junit" />
-      <option name="MAIN_CLASS_NAME" value="org.junit.HesapMakinesiTest" />
-      <option name="METHOD_NAME" value="carp" />
+      <option name="MAIN_CLASS_NAME" value="org.junit.J03_TestingExceptions" />
+      <option name="METHOD_NAME" value="testException03" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J01_Assertions.testArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="J03_TestingExceptions.testException04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit5_Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -76,14 +96,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.junit" />
-      <option name="MAIN_CLASS_NAME" value="org.junit.J01_Assertions" />
-      <option name="METHOD_NAME" value="testArray" />
+      <option name="MAIN_CLASS_NAME" value="org.junit.J03_TestingExceptions" />
+      <option name="METHOD_NAME" value="testException04" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J01_Assertions.testConvertUpper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="J04_TestingParameterized.testBykHrfCvr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit5_Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -92,14 +112,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.junit" />
-      <option name="MAIN_CLASS_NAME" value="org.junit.J01_Assertions" />
-      <option name="METHOD_NAME" value="testConvertUpper" />
+      <option name="MAIN_CLASS_NAME" value="org.junit.J04_TestingParameterized" />
+      <option name="METHOD_NAME" value="testBykHrfCvr(java.lang.String,java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J01_Assertions.testToAssert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="J04_TestingParameterized.uzunlukSifirdanByk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit5_Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -108,14 +128,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.junit" />
-      <option name="MAIN_CLASS_NAME" value="org.junit.J01_Assertions" />
-      <option name="METHOD_NAME" value="testToAssert" />
+      <option name="MAIN_CLASS_NAME" value="org.junit.J04_TestingParameterized" />
+      <option name="METHOD_NAME" value="uzunlukSifirdanByk" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J01_Assertions.testToContains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="J04_TestingParameterized.uzunlukSifirdanBykPrmtrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit5_Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +144,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.junit" />
-      <option name="MAIN_CLASS_NAME" value="org.junit.J01_Assertions" />
-      <option name="METHOD_NAME" value="testToContains" />
+      <option name="MAIN_CLASS_NAME" value="org.junit.J04_TestingParameterized" />
+      <option name="METHOD_NAME" value="uzunlukSifirdanBykPrmtrl(java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.J01_Assertions.testArray" />
-        <item itemvalue="JUnit.J01_Assertions.testToContains" />
-        <item itemvalue="JUnit.J01_Assertions.testConvertUpper" />
-        <item itemvalue="JUnit.J01_Assertions.testToAssert" />
-        <item itemvalue="JUnit.HesapMakinesiTest.carp" />
+        <item itemvalue="JUnit.J04_TestingParameterized.testBykHrfCvr" />
+        <item itemvalue="JUnit.J04_TestingParameterized.uzunlukSifirdanBykPrmtrl" />
+        <item itemvalue="JUnit.J04_TestingParameterized.uzunlukSifirdanByk" />
+        <item itemvalue="JUnit.J03_TestingExceptions.testException04" />
+        <item itemvalue="JUnit.J03_TestingExceptions.testException03" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642618306975</updated>
       <workItem from="1642618308344" duration="8864000" />
+      <workItem from="1642704079448" duration="9415000" />
     </task>
     <servers />
   </component>
@@ -159,22 +180,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1642629328803">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1642712051827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642629328803" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1642629328803">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642712051827" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1642714424025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642629328803" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1642629328803">
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714424025" />
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1642705840015" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1642714424025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642629328803" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1642629328803">
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714424025" />
+    <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1642705840015" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1642714424025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642629328803" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714424025" />
+    <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1642705840014" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1642714424025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714424025" />
+    <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1642705840015" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1642714324804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714324804" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1642714324803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714324803" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1642714324803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714324803" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1642714324804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714324804" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1642619334113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
