@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8f8c0a0-52e8-4bad-8586-77a617886ab2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/junit/J01_Assertions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/junit/J01_Assertions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/junit/C01_HesapMakinesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/HesapMakinesiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/junit/C01_HesapMakinesiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/J04_TestingParameterized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/junit/J04_TestingParameterized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/junit/HesapMakinesi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/junit/HesapMakinesiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/junit/J04_TestingParameterized.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/junit/J04_TestingParameterized.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -59,7 +62,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java2021FallTr" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -70,8 +74,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.J04_TestingParameterized.testBykHrfCvr">
-    <configuration name="J03_TestingExceptions.testException03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C03_isArraysEqualsTest">
+    <configuration name="C02_StringChangeTest.ilkIkiAsil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit5_Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -80,14 +84,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.junit" />
-      <option name="MAIN_CLASS_NAME" value="org.junit.J03_TestingExceptions" />
-      <option name="METHOD_NAME" value="testException03" />
+      <option name="MAIN_CLASS_NAME" value="org.junit.C02_StringChangeTest" />
+      <option name="METHOD_NAME" value="ilkIkiAsil(java.lang.String,java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J03_TestingExceptions.testException04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_isArraysEqualsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit5_Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -96,14 +100,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.junit" />
-      <option name="MAIN_CLASS_NAME" value="org.junit.J03_TestingExceptions" />
-      <option name="METHOD_NAME" value="testException04" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="org.junit.C03_isArraysEqualsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J04_TestingParameterized.testBykHrfCvr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="J07_TestingGroup$GroupTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit5_Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -112,14 +115,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.junit" />
-      <option name="MAIN_CLASS_NAME" value="org.junit.J04_TestingParameterized" />
-      <option name="METHOD_NAME" value="testBykHrfCvr(java.lang.String,java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="org.junit.J07_TestingGroup$GroupTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J04_TestingParameterized.uzunlukSifirdanByk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="J07_TestingGroup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit5_Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -128,14 +130,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.junit" />
-      <option name="MAIN_CLASS_NAME" value="org.junit.J04_TestingParameterized" />
-      <option name="METHOD_NAME" value="uzunlukSifirdanByk" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="org.junit.J07_TestingGroup" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J04_TestingParameterized.uzunlukSifirdanBykPrmtrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="J07_TestingGroup.Carpim" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit5_Tutorial" />
       <extension name="coverage">
         <pattern>
@@ -144,8 +145,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.junit" />
-      <option name="MAIN_CLASS_NAME" value="org.junit.J04_TestingParameterized" />
-      <option name="METHOD_NAME" value="uzunlukSifirdanBykPrmtrl(java.lang.String)" />
+      <option name="MAIN_CLASS_NAME" value="org.junit.J07_TestingGroup" />
+      <option name="METHOD_NAME" value="Carpim(int,int,int)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.J04_TestingParameterized.testBykHrfCvr" />
-        <item itemvalue="JUnit.J04_TestingParameterized.uzunlukSifirdanBykPrmtrl" />
-        <item itemvalue="JUnit.J04_TestingParameterized.uzunlukSifirdanByk" />
-        <item itemvalue="JUnit.J03_TestingExceptions.testException04" />
-        <item itemvalue="JUnit.J03_TestingExceptions.testException03" />
+        <item itemvalue="JUnit.C03_isArraysEqualsTest" />
+        <item itemvalue="JUnit.C02_StringChangeTest.ilkIkiAsil" />
+        <item itemvalue="JUnit.J07_TestingGroup" />
+        <item itemvalue="JUnit.J07_TestingGroup$GroupTest" />
+        <item itemvalue="JUnit.J07_TestingGroup.Carpim" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +173,11 @@
       <option name="presentableId" value="Default" />
       <updated>1642618306975</updated>
       <workItem from="1642618308344" duration="8864000" />
-      <workItem from="1642704079448" duration="9415000" />
+      <workItem from="1642704079448" duration="9611000" />
+      <workItem from="1642749510056" duration="20000" />
+      <workItem from="1642766305878" duration="192000" />
+      <workItem from="1642789641006" duration="1169000" />
+      <workItem from="1642790828508" duration="11913000" />
     </task>
     <servers />
   </component>
@@ -180,54 +185,66 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Notifications" timestamp="1642789657742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Notifications/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642789657742" />
+    <state x="284" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1642799124182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="284" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642799124182" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1642712051827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642712051827" />
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1642714424025">
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1642803396270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714424025" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642803396270" />
     <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1642705840015" />
-    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1642714424025">
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1642803396269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714424025" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642803396269" />
     <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1642705840015" />
-    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1642714424025">
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1642803396269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714424025" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642803396269" />
     <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1642705840014" />
-    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1642714424025">
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1642803396269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714424025" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642803396269" />
     <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1642705840015" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1642714324804">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1642714751916">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714324804" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1642714324803">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714751916" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1642714751916">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714324803" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1642714324803">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714751916" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1642714751916">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714324803" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1642714324804">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714751916" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1642714751916">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714324804" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642714751916" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1642619334113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642619334113" />
-    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1642621139409">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1642790829399">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642621139409" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642790829399" />
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1642801312508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1642801312508" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
